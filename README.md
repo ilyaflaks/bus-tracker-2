@@ -14,12 +14,16 @@ The default route will be Bus#1 going between MIT and Harvard.
 Features:
 - Updates every 15 seconds
 - Busses are colored red or blue based on the direction
-- No user input needed
 
-Full disclosure: most of the code was provided by the MITxPro instructors. My contributions are:
+Full disclosure: most of the code was provided by the MITxPro instructors. 
+
+My contributions are:
 - The feature that allows a user to select a particular bus number
 - The legend that explains which bus is being tracked and what Blue/Red icons represent
 - I decreased the zoom to better see routes further away from downtown Boston
+
+Possible Future improvements:
+- Make the zoom automatically adjust based on the route selected
 
 To run this project you can either fork this repository and view it on your computer
 or see it in action at https://ilyaflaks.github.io/bus-tracker/
