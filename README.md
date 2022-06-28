@@ -19,6 +19,7 @@ Features:
 Full disclosure: most of the code was provided by the MITxPro instructors. My contributions are:
 - The feature that allows a user to select a particular bus number
 - The legend that explains which bus is being tracked and what Blue/Red icons represent
+- I decreased the zoom to better see routes further away from downtown Boston
 
 To run this project you can either fork this repository and view it on your computer
 or see it in action at https://ilyaflaks.github.io/bus-tracker/
